@@ -1,0 +1,8 @@
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\bin\Debug\ArduinoUI.exe.config
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\bin\Debug\ArduinoUI.exe
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\bin\Debug\ArduinoUI.pdb
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\obj\Debug\ArduinoUI.Form1.resources
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\obj\Debug\ArduinoUI.Properties.Resources.resources
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\obj\Debug\ArduinoUI.csproj.GenerateResource.Cache
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\obj\Debug\ArduinoUI.exe
+E:\Lab\Arduino\Serial\ArduinoUI\ArduinoUI\obj\Debug\ArduinoUI.pdb
